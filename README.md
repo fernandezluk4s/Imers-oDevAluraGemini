@@ -1,4 +1,4 @@
-### **Busca de Atletas: Encontre seu ídolo olímpico!** 
+### **Busca de Atletas - Imersão Dev com Gogle Gemini** 
 
 **O que faz essa aplicação?**
 
@@ -46,7 +46,7 @@ Se você quiser ajudar a melhorar essa aplicação, fique à vontade para abrir 
 
 ---
 
-**Lucas DE Almeida Silva Sigolo Fernandes**
+**Lucas De Almeida Silva Sigolo Fernandes**
 **lukasigolo@gmail.com**
 **https://github.com/fernandezluk4s**
 
