@@ -52,7 +52,7 @@ Se você quiser ajudar a melhorar essa aplicação, fique à vontade para abrir 
 
 ---
 
-**Link Vercel: **
+**Link Vercel:**
 **https://imersao-dev-alura-gemini.vercel.app**
 
 ---
