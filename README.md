@@ -52,4 +52,9 @@ Se você quiser ajudar a melhorar essa aplicação, fique à vontade para abrir 
 
 ---
 
+**Link Vercel: **
+**https://imersao-dev-alura-gemini.vercel.app**
+
+---
+
 **Observação:** Adapte este README.md para que ele reflita o seu projeto e a sua personalidade. Use uma linguagem clara e objetiva, e adicione mais detalhes sobre a sua aplicação se necessário.
