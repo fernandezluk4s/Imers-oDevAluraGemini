@@ -35,17 +35,6 @@ Se você quiser ajudar a melhorar essa aplicação, fique à vontade para abrir 
 
 ---
 
-**Dicas extras:**
-
-* **Imagens:** Para deixar a aplicação mais visual, você pode adicionar imagens dos atletas.
-* **Mais informações:** Que tal adicionar mais informações sobre os atletas, como medalhas conquistadas e recordes?
-* **Filtros:** Implemente filtros para pesquisar por esporte, país ou período olímpico.
-* **Responsividade:** Adapte a aplicação para funcionar em diferentes dispositivos (celular, tablet, etc).
-
-**Comente aqui suas sugestões e dúvidas!** 
-
----
-
 **Lucas De Almeida Silva Sigolo Fernandes**
 **lukasigolo@gmail.com**
 **https://github.com/fernandezluk4s**
@@ -55,6 +44,3 @@ Se você quiser ajudar a melhorar essa aplicação, fique à vontade para abrir 
 **Link Vercel:**
 **https://imersao-dev-alura-gemini.vercel.app**
 
----
-
-**Observação:** Adapte este README.md para que ele reflita o seu projeto e a sua personalidade. Use uma linguagem clara e objetiva, e adicione mais detalhes sobre a sua aplicação se necessário.
